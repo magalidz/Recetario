@@ -4,3 +4,5 @@ Lechuga
 Espinaca
 Arvejas
 Perejil
+Aceitunas verdes
+Albahaca
